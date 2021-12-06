@@ -1,0 +1,7 @@
+## Interface: 20502
+## Title: Aggro List
+## Notes: A list of enemies in the current encounter
+## Author: ToastyDev
+## Version: TBC 1.0
+
+AggroList.lua
